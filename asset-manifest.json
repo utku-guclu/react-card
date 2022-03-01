@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/react-card/static/js/main.cd9d7a56.js",
+    "static/media/github-brands.svg": "/react-card/static/media/github-brands.d5db839804954646a24c4fe54c218be5.svg",
+    "static/media/instagram-square-brands.svg": "/react-card/static/media/instagram-square-brands.2d795afbcaca1a32da65ee984e4ceb47.svg",
+    "static/media/twitter-square-brands.svg": "/react-card/static/media/twitter-square-brands.8f3d067bdfc1056e8e310d56dc9ee4a5.svg",
+    "static/media/linkedin-brands.svg": "/react-card/static/media/linkedin-brands.787aa301244425e7fe5bdcff7917892f.svg",
+    "index.html": "/react-card/index.html",
+    "static/media/envelope-solid.svg": "/react-card/static/media/envelope-solid.5c1c1b728e1ee5d36dec522469b3186e.svg",
+    "static/media/facebook-brands.svg": "/react-card/static/media/facebook-brands.8db607999a206267b50d2c89662bd887.svg",
+    "main.cd9d7a56.js.map": "/react-card/static/js/main.cd9d7a56.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cd9d7a56.js"
+  ]
+}
